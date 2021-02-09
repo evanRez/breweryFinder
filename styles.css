@@ -1,0 +1,54 @@
+/* 
+grey: #e7e6e1
+beige: #f7f6e7
+orange: #f2a154
+navy green: #314e52
+*/
+
+.hidden {
+  display: none;
+}
+
+.head {
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  padding-left: 1.5rem;
+  margin-bottom: 1.5rem;
+  background-color: #f2a154;
+  color: rgb(20, 80, 58);
+}
+
+body {
+  background-color: #f7f6e7;
+}
+
+.brewery {
+  background-color: #314e52;
+  color: #e7e6e1;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+#clear-btn {
+  background-color: #f2a154;
+  color: #314e52;
+}
+
+.search {
+  background-color: #314e52;
+  color: #f2a154;
+}
+
+#footer {
+  position: relative;
+  bottom: 0;
+  margin-top: 1.5rem;
+  padding-top: 1.5rem;
+  background-color: #f2a154;
+  color: #314e52;
+  width: 100%;
+}
+
+ion-icon {
+  color: #314e52;
+}
